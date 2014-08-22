@@ -1,0 +1,8 @@
+EXHIBIT NAME: Maze
+GALLERY: Being Human
+DESCRIPTION: description
+IMAGE NAME: BH.png
+QUESTION 1: Can you stop the avalanche?
+QUESTION 2: Can you build something to stop the avalanche in under 2 minutes?
+QUESTION 3: Can you stop the avalanche using only one kind of material?
+QUESTION 4: Can you control the avalanche to shield just one of the animals?
